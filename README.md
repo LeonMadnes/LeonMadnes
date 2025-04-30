@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello there 👋
 
+I'm currently learning about both front end, back end and databases.
+I'm looking for help with understanding how to fully use Github to work with a team
+Fun fact: I love learning about eveyrthing and anything, specialy coding related
 <!--
 **LeonMadnes/LeonMadnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
