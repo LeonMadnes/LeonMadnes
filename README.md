@@ -1,8 +1,7 @@
 ## Hello there 👋
 
-I'm currently learning about both front end, back end and databases.
-I'm looking for help with understanding how to fully use Github to work with a team
-Fun fact: I love learning about eveyrthing and anything, specialy coding related
+I'm a soon to graduate Computer Science student passionate about programming and getting into the tech world! Full-stack development from React, Javascript, Python, Java, C, to databases such as Prisma, MySql and Django. I am currently working on adding more of my current projects and adding new projects to my repo to showcase my abilities!
+
 <!--
 **LeonMadnes/LeonMadnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
